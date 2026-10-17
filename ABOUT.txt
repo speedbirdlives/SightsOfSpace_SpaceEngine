@@ -1,4 +1,0 @@
-Suggested repository name: SightsOfSpace-SpaceEngine
-Suggested GitHub description: A curated educational gallery of SpaceEngine visualizations exploring planets, nebulae, and planetary systems.
-
-Before publishing, check that the applicable SpaceEngine licence covers your intended public GitHub use. The repository is prepared as a non-commercial educational portfolio and includes the required credit notice from the licence excerpt supplied by the user.
