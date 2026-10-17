@@ -14,7 +14,7 @@ Values below are rounded reference values. “Orbit” means the time to orbit t
 
 ## Callisto — Jupiter’s ancient, cratered moon
 
-![Callisto — Jupiter’s ancient, cratered moon](<SolarSystem/Callisto.jpg>)
+![Callisto — Jupiter’s ancient, cratered moon](<Callisto.jpg>)
 
 Callisto is an icy-rocky satellite with one of the most heavily cratered surfaces in the Solar System. Its battered landscape preserves a record of impacts over billions of years. A subsurface ocean is possible, though less directly supported than Europa’s.
 
@@ -25,7 +25,7 @@ Callisto is an icy-rocky satellite with one of the most heavily cratered surface
 
 ## Earth — the ocean world
 
-![Earth — the ocean world](<SolarSystem/Earth.jpg>)
+![Earth — the ocean world](<Earth.jpg>)
 
 Earth is the only world currently known to host life. Liquid water covers about 71% of its surface, while its atmosphere and magnetic field help maintain a habitable environment.
 
@@ -36,7 +36,7 @@ Earth is the only world currently known to host life. Liquid water covers about 
 
 ## Earth and Moon — a two-body system
 
-![Earth and Moon — a two-body system](<SolarSystem/Earthand%20Moon.jpg>)
+![Earth and Moon — a two-body system](<Earthand%20Moon.jpg>)
 
 This view emphasizes the Moon’s size relative to Earth. The Moon is unusually large compared with its host planet and strongly influences tides and Earth’s axial stability.
 
@@ -47,7 +47,7 @@ This view emphasizes the Moon’s size relative to Earth. The Moon is unusually 
 
 ## The Moon beside Earth
 
-![The Moon beside Earth](<SolarSystem/EarthMoon.jpg>)
+![The Moon beside Earth](<EarthMoon.jpg>)
 
 A second Earth–Moon composition highlights the Moon’s cratered, airless surface and the contrast between Earth’s active, water-rich surface and the Moon’s preserved impact record.
 
@@ -58,7 +58,7 @@ A second Earth–Moon composition highlights the Moon’s cratered, airless surf
 
 ## Enceladus — an active ocean moon
 
-![Enceladus — an active ocean moon](<SolarSystem/Enceladus.jpg>)
+![Enceladus — an active ocean moon](<Enceladus.jpg>)
 
 Enceladus is a small, bright, icy moon of Saturn. South-polar fractures known as tiger stripes vent water-rich plumes into space, providing direct samples of material from a global subsurface ocean.
 
@@ -69,7 +69,7 @@ Enceladus is a small, bright, icy moon of Saturn. South-polar fractures known as
 
 ## Europa — an ice shell over a global ocean?
 
-![Europa — an ice shell over a global ocean?](<SolarSystem/Europa.jpg>)
+![Europa — an ice shell over a global ocean?](<Europa.jpg>)
 
 Europa’s relatively smooth, fractured ice surface suggests a geologically active world. Strong evidence indicates a salty liquid-water ocean beneath its ice shell.
 
@@ -80,7 +80,7 @@ Europa’s relatively smooth, fractured ice surface suggests a geologically acti
 
 ## Haumea — a rapidly rotating dwarf planet
 
-![Haumea — a rapidly rotating dwarf planet](<SolarSystem/Haumea1.jpg>)
+![Haumea — a rapidly rotating dwarf planet](<Haumea1.jpg>)
 
 Haumea is an elongated, fast-spinning dwarf planet in the Kuiper Belt beyond Neptune. Its rapid rotation distorts it from a sphere, and it is known to possess a ring.
 
@@ -91,7 +91,7 @@ Haumea is an elongated, fast-spinning dwarf planet in the Kuiper Belt beyond Nep
 
 ## Haumea viewed with its moon Namaka
 
-![Haumea viewed with its moon Namaka](<SolarSystem/HaumeafromNamaka.jpg>)
+![Haumea viewed with its moon Namaka](<HaumeafromNamaka.jpg>)
 
 This simulated viewpoint presents Haumea with one of its two known moons, Namaka. The apparent spacing and sizes in a simulation should not be interpreted as a scale model.
 
@@ -102,7 +102,7 @@ This simulated viewpoint presents Haumea with one of its two known moons, Namaka
 
 ## Hiʻiaka and Haumea
 
-![Hiʻiaka and Haumea](<SolarSystem/HriakaHaumea.jpg>)
+![Hiʻiaka and Haumea](<HriakaHaumea.jpg>)
 
 The filename appears to refer to Hiʻiaka, Haumea’s larger known moon. The view illustrates a distant dwarf-planet system rather than a spacecraft photograph.
 
@@ -113,7 +113,7 @@ The filename appears to refer to Hiʻiaka, Haumea’s larger known moon. The vie
 
 ## Haumea and its moons in a simulated starfield
 
-![Haumea and its moons in a simulated starfield](<SolarSystem/HuameaMoon_LMCandSMC.jpg>)
+![Haumea and its moons in a simulated starfield](<HuameaMoon_LMCandSMC.jpg>)
 
 This composition shows a small outer Solar System system against a distant starfield. The Large and Small Magellanic Clouds in the filename are galaxies, not objects orbiting Haumea; any placement is artistic/simulated.
 
@@ -124,7 +124,7 @@ This composition shows a small outer Solar System system against a distant starf
 
 ## Io — the volcanically active moon
 
-![Io — the volcanically active moon](<SolarSystem/Io.jpg>)
+![Io — the volcanically active moon](<Io.jpg>)
 
 Io’s yellow, orange, and brown surface is coated by sulfur compounds and volcanic deposits. It is the most volcanically active body known in the Solar System.
 
@@ -135,7 +135,7 @@ Io’s yellow, orange, and brown surface is coated by sulfur compounds and volca
 
 ## Jupiter — the giant planet
 
-![Jupiter — the giant planet](<SolarSystem/Jupiter.jpg>)
+![Jupiter — the giant planet](<Jupiter.jpg>)
 
 Jupiter is the Solar System’s most massive planet. Its alternating cloud bands, storms, and Great Red Spot reveal a dynamic atmosphere driven by internal heat and rapid rotation.
 
@@ -146,7 +146,7 @@ Jupiter is the Solar System’s most massive planet. Its alternating cloud bands
 
 ## Jupiter’s Galilean moons
 
-![Jupiter’s Galilean moons](<SolarSystem/JupiterIoCallistoEuropa.jpg>)
+![Jupiter’s Galilean moons](<JupiterIoCallistoEuropa.jpg>)
 
 The scene shows Jupiter’s large moons Io, Europa, and Callisto. Along with Ganymede (not necessarily visible here), these are the four Galilean satellites discovered by Galileo in 1610.
 
@@ -157,7 +157,7 @@ The scene shows Jupiter’s large moons Io, Europa, and Callisto. Along with Gan
 
 ## Jupiter’s faint ring system
 
-![Jupiter’s faint ring system](<SolarSystem/JupiterRings.jpg>)
+![Jupiter’s faint ring system](<JupiterRings.jpg>)
 
 Jupiter has a tenuous ring system made mainly of dark dust, much fainter than Saturn’s rings. Dust from tiny inner moons is lofted into orbit by impacts and contributes to the rings.
 
@@ -168,7 +168,7 @@ Jupiter has a tenuous ring system made mainly of dark dust, much fainter than Sa
 
 ## Makemake — a Kuiper Belt dwarf planet
 
-![Makemake — a Kuiper Belt dwarf planet](<SolarSystem/Makemake.jpg>)
+![Makemake — a Kuiper Belt dwarf planet](<Makemake.jpg>)
 
 Makemake is a cold, distant dwarf planet in the Kuiper Belt. Its surface reflects sunlight strongly and is coated in volatile ices.
 
@@ -179,7 +179,7 @@ Makemake is a cold, distant dwarf planet in the Kuiper Belt. Its surface reflect
 
 ## Mars — the red planet
 
-![Mars — the red planet](<SolarSystem/Mars.jpg>)
+![Mars — the red planet](<Mars.jpg>)
 
 Mars is a cold desert world with giant volcanoes, ancient river valleys, polar caps, and evidence that liquid water once flowed across its surface.
 
@@ -190,7 +190,7 @@ Mars is a cold desert world with giant volcanoes, ancient river valleys, polar c
 
 ## Mars viewed from Phobos
 
-![Mars viewed from Phobos](<SolarSystem/MarsfromPhobos%20(1).jpg>)
+![Mars viewed from Phobos](<MarsfromPhobos%20(1).jpg>)
 
 Phobos is the larger and closer of Mars’s two small moons. From its surface, Mars would appear enormous compared with the Moon as seen from Earth; the exact scale and perspective here are simulated.
 
@@ -201,7 +201,7 @@ Phobos is the larger and closer of Mars’s two small moons. From its surface, M
 
 ## Mars and its polar region
 
-![Mars and its polar region](<SolarSystem/MarsPole.jpg>)
+![Mars and its polar region](<MarsPole.jpg>)
 
 The image highlights Mars’s polar terrain. Mars has seasonal polar caps made of water ice and carbon-dioxide ice, with layered deposits that preserve clues about past climate cycles.
 
@@ -212,7 +212,7 @@ The image highlights Mars’s polar terrain. Mars has seasonal polar caps made o
 
 ## Mercury — the innermost planet
 
-![Mercury — the innermost planet](<SolarSystem/Mercury.jpg>)
+![Mercury — the innermost planet](<Mercury.jpg>)
 
 Mercury is the smallest planet and the closest to the Sun. It has an ancient, heavily cratered surface and extreme day–night temperature contrasts.
 
@@ -223,7 +223,7 @@ Mercury is the smallest planet and the closest to the Sun. It has an ancient, he
 
 ## Mercury against the starfield
 
-![Mercury against the starfield](<SolarSystem/Mercury1.jpg>)
+![Mercury against the starfield](<Mercury1.jpg>)
 
 This wider simulated view places Mercury in its solar-system context. Mercury’s phase changes as it orbits the Sun, just as Venus’s does, because we see different portions of its sunlit hemisphere.
 
@@ -234,7 +234,7 @@ This wider simulated view places Mercury in its solar-system context. Mercury’
 
 ## Neptune — a distant ice giant
 
-![Neptune — a distant ice giant](<SolarSystem/Neptune.jpg>)
+![Neptune — a distant ice giant](<Neptune.jpg>)
 
 Neptune is a deep-blue ice giant with fast winds, storms, and a faint ring system. Its blue appearance is influenced by atmospheric methane and other atmospheric processes; colour alone does not reveal its full composition.
 
@@ -245,7 +245,7 @@ Neptune is a deep-blue ice giant with fast winds, storms, and a faint ring syste
 
 ## Neptune from Triton
 
-![Neptune from Triton](<SolarSystem/NeptunefromTriton.jpg>)
+![Neptune from Triton](<NeptunefromTriton.jpg>)
 
 Triton is Neptune’s largest moon. The simulated view shows Neptune rising over Triton’s horizon; it is not an actual photograph taken from the surface.
 
@@ -256,7 +256,7 @@ Triton is Neptune’s largest moon. The simulated view shows Neptune rising over
 
 ## Pluto — a complex dwarf planet
 
-![Pluto — a complex dwarf planet](<SolarSystem/Pluto.jpg>)
+![Pluto — a complex dwarf planet](<Pluto.jpg>)
 
 Pluto is a Kuiper Belt dwarf planet with mountains, glaciers, impact craters, and a thin atmosphere. NASA’s New Horizons flyby in 2015 transformed it from a point of light into a geologically diverse world.
 
@@ -267,7 +267,7 @@ Pluto is a Kuiper Belt dwarf planet with mountains, glaciers, impact craters, an
 
 ## Close-up of Saturn’s ring particles
 
-![Close-up of Saturn’s ring particles](<SolarSystem/SaturnRIngRocks.jpg>)
+![Close-up of Saturn’s ring particles](<SaturnRIngRocks.jpg>)
 
 Saturn’s rings are not solid discs: they consist of countless particles, mostly water ice with a range of sizes from dust to boulder-scale chunks. Gaps and waves arise through gravitational interactions.
 
@@ -278,7 +278,7 @@ Saturn’s rings are not solid discs: they consist of countless particles, mostl
 
 ## Saturn’s icy rings from another angle
 
-![Saturn’s icy rings from another angle](<SolarSystem/SaturnRingRocks2.jpg>)
+![Saturn’s icy rings from another angle](<SaturnRingRocks2.jpg>)
 
 This view emphasizes the three-dimensional geometry of ring particles and the way sunlight scatters from icy material. The bright appearance depends on viewing angle and illumination.
 
@@ -289,7 +289,7 @@ This view emphasizes the three-dimensional geometry of ring particles and the wa
 
 ## Saturn’s rings and shadow
 
-![Saturn’s rings and shadow](<SolarSystem/SaturnRings.jpg>)
+![Saturn’s rings and shadow](<SaturnRings.jpg>)
 
 Saturn’s spectacular ring system is composed mainly of water ice. The apparent dark gap between the bright A and B rings is the Cassini Division, a region shaped in part by orbital resonances with moons.
 
@@ -300,7 +300,7 @@ Saturn’s spectacular ring system is composed mainly of water ice. The apparent
 
 ## Saturn — the ringed giant
 
-![Saturn — the ringed giant](<SolarSystem/Staurn.jpg>)
+![Saturn — the ringed giant](<Staurn.jpg>)
 
 Saturn is a low-density gas giant best known for its extensive rings. Its atmosphere contains bands, storms, and a persistent north-polar hexagonal jet-stream pattern.
 
@@ -311,7 +311,7 @@ Saturn is a low-density gas giant best known for its extensive rings. Its atmosp
 
 ## The Sun — the star at the centre
 
-![The Sun — the star at the centre](<SolarSystem/Sun.jpg>)
+![The Sun — the star at the centre](<Sun.jpg>)
 
 The Sun is a G-type main-sequence star whose gravity binds the Solar System. Nuclear fusion in its core converts hydrogen into helium and releases the energy that powers sunlight and the solar wind.
 
@@ -322,7 +322,7 @@ The Sun is a G-type main-sequence star whose gravity binds the Solar System. Nuc
 
 ## The Sun as seen from Jupiter
 
-![The Sun as seen from Jupiter](<SolarSystem/SunfromJupiter.jpg>)
+![The Sun as seen from Jupiter](<SunfromJupiter.jpg>)
 
 At Jupiter’s distance, the Sun appears smaller than it does from Earth and provides less than four percent of the sunlight received at Earth. The scene is a simulated view from a hypothetical viewpoint.
 
@@ -333,7 +333,7 @@ At Jupiter’s distance, the Sun appears smaller than it does from Earth and pro
 
 ## Solar-system orbits — a schematic view
 
-![Solar-system orbits — a schematic view](<SolarSystem/Sun_Orbits%20(1).jpg>)
+![Solar-system orbits — a schematic view](<Sun_Orbits%20(1).jpg>)
 
 This image visualizes orbital paths around the Sun. The planets orbit in broadly the same direction and in nearly the same plane because they formed from a rotating protoplanetary disk. Real orbits are not luminous green lines.
 
@@ -344,7 +344,7 @@ This image visualizes orbital paths around the Sun. The planets orbit in broadly
 
 ## Titan — Saturn’s haze-covered moon
 
-![Titan — Saturn’s haze-covered moon](<SolarSystem/Titan.jpg>)
+![Titan — Saturn’s haze-covered moon](<Titan.jpg>)
 
 Titan is Saturn’s largest moon and the only moon with a dense atmosphere. Its surface has rivers, lakes, and seas of liquid methane and ethane, along with dunes made of organic-rich material.
 
@@ -355,7 +355,7 @@ Titan is Saturn’s largest moon and the only moon with a dense atmosphere. Its 
 
 ## Uranus — the tilted ice giant
 
-![Uranus — the tilted ice giant](<SolarSystem/Uranus.jpg>)
+![Uranus — the tilted ice giant](<Uranus.jpg>)
 
 Uranus appears cyan because methane absorbs red light in its upper atmosphere. Its extreme axial tilt means it rotates almost on its side, producing unusual seasons that last decades.
 
@@ -366,7 +366,7 @@ Uranus appears cyan because methane absorbs red light in its upper atmosphere. I
 
 ## Uranus viewed from Miranda
 
-![Uranus viewed from Miranda](<SolarSystem/UranusfromMiranda.jpg>)
+![Uranus viewed from Miranda](<UranusfromMiranda.jpg>)
 
 Miranda is one of Uranus’s small major moons, notable for enormous cliffs, grooved terrain, and patchwork regions that suggest a complex geological history. This scene is a simulation.
 
@@ -377,7 +377,7 @@ Miranda is one of Uranus’s small major moons, notable for enormous cliffs, gro
 
 ## Venus — the runaway greenhouse world
 
-![Venus — the runaway greenhouse world](<SolarSystem/Venus.jpg>)
+![Venus — the runaway greenhouse world](<Venus.jpg>)
 
 Venus is similar to Earth in size but has a radically different climate. Its dense carbon-dioxide atmosphere and sulphuric-acid clouds trap heat, making its surface hotter than Mercury’s despite being farther from the Sun.
 
